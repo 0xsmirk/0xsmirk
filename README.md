@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm smile-e3 😄</h1>
+<h3 align="center">🚀  Security | Developer | Open Source ♥ | Reverse 🚀</h3>
 
-<!--
-**smile-e3/smile-e3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🦝 About Me
 
-Here are some ideas to get you started:
+- Network Security ⚠️
+- Open Source enthusiast. 🎧
+- Currently working on IOT Reasearch. 🔥
+- Learning Hardware ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Some Statistics About Me
+
+[![smile-e3 GitHub Stats](https://github-readme-stats.vercel.app/api?username=smile-e3&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/smile-e3)
