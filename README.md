@@ -5,8 +5,8 @@
 
 - Network Security ⚠️
 - Open Source enthusiast. 🎧
-- Currently working on IOT Reasearch. 🔥
-- Learning Hardware ✨
+- Currently working on vehicle Reasearch. 🔥
+- Learning Kernel Pwn & Hardware ✨
 
 
 # Some Statistics About Me
